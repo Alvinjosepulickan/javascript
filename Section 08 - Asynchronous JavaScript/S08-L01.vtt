@@ -1,0 +1,54 @@
+﻿WEBVTT
+
+1
+00:00:00.990 --> 00:00:02.390
+<v ->In this section, we're gonna talk</v>
+
+2
+00:00:02.390 --> 00:00:04.360
+about asynchronous JavaScript,
+
+3
+00:00:04.360 --> 00:00:06.806
+which basically is just a fancy term
+
+4
+00:00:06.806 --> 00:00:09.840
+for some code that keeps running in the background
+
+5
+00:00:09.840 --> 00:00:12.670
+while our main code is still executing.
+
+6
+00:00:12.670 --> 00:00:15.490
+And typically, that is for stuff like requesting some data
+
+7
+00:00:15.490 --> 00:00:18.270
+from a remote server, like an API.
+
+8
+00:00:18.270 --> 00:00:20.281
+So in this section, I'm gonna give you the tools
+
+9
+00:00:20.281 --> 00:00:24.490
+to work with asynchronous JavaScript in a very modern way
+
+10
+00:00:24.490 --> 00:00:26.680
+because it actually works quite differently
+
+11
+00:00:26.680 --> 00:00:29.480
+from what we've been doing up until this point.
+
+12
+00:00:29.480 --> 00:00:31.020
+So let's now quickly move on.
+
+13
+00:00:31.020 --> 00:00:34.603
+(uptempo electronic music)
+
