@@ -1,0 +1,98 @@
+﻿WEBVTT
+
+1
+00:00:00.740 --> 00:00:03.860
+<v ->Welcome to the second project of the course.</v>
+
+2
+00:00:03.860 --> 00:00:05.690
+This is where everything that we've learned
+
+3
+00:00:05.690 --> 00:00:07.630
+up until this point comes together
+
+4
+00:00:07.630 --> 00:00:09.670
+and you will even learn a ton of new
+
+5
+00:00:09.670 --> 00:00:12.400
+JavaScript features doing this project.
+
+6
+00:00:12.400 --> 00:00:14.470
+So we're gonna use all this advanced content
+
+7
+00:00:14.470 --> 00:00:16.350
+about object and functions.
+
+8
+00:00:16.350 --> 00:00:18.940
+Lots of arrays, lots of dot manipulation
+
+9
+00:00:18.940 --> 00:00:21.800
+and a bunch of other important stuff.
+
+10
+00:00:21.800 --> 00:00:24.600
+Now this project is not just about coding,
+
+11
+00:00:24.600 --> 00:00:26.620
+it's also about how to approach
+
+12
+00:00:26.620 --> 00:00:28.800
+and how to solve specific problems.
+
+13
+00:00:28.800 --> 00:00:31.700
+So basically, it's also about how to think
+
+14
+00:00:31.700 --> 00:00:33.170
+as a JavaScript programmer
+
+15
+00:00:33.170 --> 00:00:34.810
+and so we'll be talking a lot about
+
+16
+00:00:34.810 --> 00:00:36.200
+structuring our code.
+
+17
+00:00:36.200 --> 00:00:38.410
+Why we take certain decisions about objects
+
+18
+00:00:38.410 --> 00:00:41.660
+or funky creations and so on and so forth.
+
+19
+00:00:41.660 --> 00:00:43.600
+Because coding is not just writing
+
+20
+00:00:43.600 --> 00:00:45.230
+a bunch of lines of code,
+
+21
+00:00:45.230 --> 00:00:47.180
+but it's also about how to think
+
+22
+00:00:47.180 --> 00:00:50.800
+and how to make all the pieces of a code fit together.
+
+23
+00:00:50.800 --> 00:00:53.600
+So that in the end we have a final, functioning product.
+
+24
+00:00:56.316 --> 00:00:58.856
+(soft tribal beat)
+
