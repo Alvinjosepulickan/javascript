@@ -1,0 +1,74 @@
+﻿WEBVTT
+
+1
+00:00:01.610 --> 00:00:03.810
+<v ->Hey there and welcome back.</v>
+
+2
+00:00:03.810 --> 00:00:06.680
+So after our big project in the last section,
+
+3
+00:00:06.680 --> 00:00:10.020
+we will now actually move from the ES5 JavaScript version
+
+4
+00:00:10.020 --> 00:00:13.303
+to the ES6 or even newer for the rest of the course.
+
+5
+00:00:14.210 --> 00:00:17.240
+So remember that we talked briefly about JavaScript versions
+
+6
+00:00:17.240 --> 00:00:19.070
+right in the beginning of the course.
+
+7
+00:00:19.070 --> 00:00:22.270
+And so from now on, it's time to really dive deep
+
+8
+00:00:22.270 --> 00:00:24.970
+into next generation JavaScript.
+
+9
+00:00:24.970 --> 00:00:26.830
+And don't forget that everything that you learned
+
+10
+00:00:26.830 --> 00:00:29.540
+up until this point is, of course, still valid
+
+11
+00:00:29.540 --> 00:00:31.200
+and still very important.
+
+12
+00:00:31.200 --> 00:00:34.280
+Because all that really changes is a bit of syntax
+
+13
+00:00:34.280 --> 00:00:35.920
+and some new features.
+
+14
+00:00:35.920 --> 00:00:39.380
+But not really how the language works, okay?
+
+15
+00:00:39.380 --> 00:00:42.420
+So in this section you will learn what's new in ES6
+
+16
+00:00:42.420 --> 00:00:44.730
+so that in the next section, we can then create
+
+17
+00:00:44.730 --> 00:00:47.875
+a new, huge project using modern JavaScript.
+
+18
+00:00:47.875 --> 00:00:50.375
+(chill music)
+
