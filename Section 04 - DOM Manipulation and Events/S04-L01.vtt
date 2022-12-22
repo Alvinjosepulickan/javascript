@@ -1,0 +1,66 @@
+﻿WEBVTT
+
+1
+00:00:01.547 --> 00:00:05.259
+<v ->This section is about DOM manipulation with JavaScript.</v>
+
+2
+00:00:05.259 --> 00:00:06.330
+So up until this point,
+
+3
+00:00:06.330 --> 00:00:08.930
+we have only talked about the language itself,
+
+4
+00:00:08.930 --> 00:00:11.381
+but never about how we can actually use JavaScript
+
+5
+00:00:11.381 --> 00:00:14.844
+in the browser to make it interact with the webpage.
+
+6
+00:00:14.844 --> 00:00:16.518
+And that's why, in this section,
+
+7
+00:00:16.518 --> 00:00:19.915
+we're gonna build our very first small project together.
+
+8
+00:00:19.915 --> 00:00:22.477
+And this project is a very simple but fun game
+
+9
+00:00:22.477 --> 00:00:24.742
+that we can play in our browser.
+
+10
+00:00:24.742 --> 00:00:27.700
+So it's basically just a HTML webpage that is gonna track
+
+11
+00:00:27.700 --> 00:00:31.077
+with the JavaScript code that we'll be writing.
+
+12
+00:00:31.077 --> 00:00:33.609
+So, you will learn a ton of new stuff,
+
+13
+00:00:33.609 --> 00:00:35.776
+and of course, you will also use some
+
+14
+00:00:35.776 --> 00:00:38.285
+of the concepts that you've learned so far.
+
+15
+00:00:38.285 --> 00:00:41.206
+So let's go have some fun with this project now!
+
+16
+00:00:41.206 --> 00:00:43.873
+(playful music)
+
