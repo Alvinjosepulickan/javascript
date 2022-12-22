@@ -1,0 +1,102 @@
+﻿WEBVTT
+
+1
+00:00:01.790 --> 00:00:03.550
+<v ->Hello and welcome to the section</v>
+
+2
+00:00:03.550 --> 00:00:06.400
+about how JavaScript actually works behind the scenes.
+
+3
+00:00:07.240 --> 00:00:10.330
+So now that you have a basic knowledge about the language,
+
+4
+00:00:10.330 --> 00:00:13.370
+Let's take our skills to the next levels and take a look
+
+5
+00:00:13.370 --> 00:00:15.540
+behind the scenes of JavaScript.
+
+6
+00:00:15.540 --> 00:00:18.320
+And this is the part that many JavaScript courses out there
+
+7
+00:00:18.320 --> 00:00:21.050
+simply skip or just mention very briefly
+
+8
+00:00:21.050 --> 00:00:23.060
+and that's actually, really a problem,
+
+9
+00:00:23.060 --> 00:00:24.880
+because this stuff is something
+
+10
+00:00:24.880 --> 00:00:26.680
+that you really need to learn.
+
+11
+00:00:26.680 --> 00:00:28.390
+Because if you truly understand
+
+12
+00:00:28.390 --> 00:00:30.950
+how the language works, well then you're going to be able
+
+13
+00:00:30.950 --> 00:00:33.910
+to write better code, to debug your code,
+
+14
+00:00:33.910 --> 00:00:36.870
+and to better understand other developer's code.
+
+15
+00:00:36.870 --> 00:00:38.930
+And toward the end, everything that you're gonna learn
+
+16
+00:00:38.930 --> 00:00:41.570
+in this section will really make you a better
+
+17
+00:00:41.570 --> 00:00:42.620
+JavaScript developer.
+
+18
+00:00:43.620 --> 00:00:46.210
+Now, these lectures are a mix of theory lectures
+
+19
+00:00:46.210 --> 00:00:49.000
+and coding examples and so you'll actually immediately
+
+20
+00:00:49.000 --> 00:00:51.050
+practice what you learn here.
+
+21
+00:00:51.050 --> 00:00:52.860
+And if something feels a bit overwhelming,
+
+22
+00:00:52.860 --> 00:00:55.820
+well then don't worry, you can always rewatch a lecture
+
+23
+00:00:55.820 --> 00:00:57.780
+or also come back to it later.
+
+24
+00:00:57.780 --> 00:00:59.130
+So, are you ready?
+
+25
+00:00:59.130 --> 00:01:00.280
+Then let's get started.
+
