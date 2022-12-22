@@ -1,0 +1,106 @@
+﻿WEBVTT
+
+1
+00:00:00.790 --> 00:00:03.779
+<v ->Hello, and welcome back to the next section.</v>
+
+2
+00:00:03.779 --> 00:00:05.137
+Let's now take a deep dive
+
+3
+00:00:05.137 --> 00:00:07.500
+into the most advanced topics in JavaScript.
+
+4
+00:00:07.500 --> 00:00:10.144
+And that is Objects and Functions.
+
+5
+00:00:10.144 --> 00:00:12.792
+So Objects and Functions are two closely related
+
+6
+00:00:12.792 --> 00:00:14.500
+concepts in JavaScript.
+
+7
+00:00:14.500 --> 00:00:17.475
+They are also the two most used features of the language
+
+8
+00:00:17.475 --> 00:00:20.393
+because they allow us to do so many advanced things
+
+9
+00:00:20.393 --> 00:00:21.689
+with our code.
+
+10
+00:00:21.689 --> 00:00:24.576
+And so it's absolutely vital that you get a good grasp
+
+11
+00:00:24.576 --> 00:00:27.954
+of everything about Objects and Functions.
+
+12
+00:00:27.954 --> 00:00:30.333
+Now some of these concepts may be kind of difficult
+
+13
+00:00:30.333 --> 00:00:32.683
+to understand and confusing in the beginning.
+
+14
+00:00:32.683 --> 00:00:33.638
+Alright?
+
+15
+00:00:33.638 --> 00:00:34.512
+But don't worry.
+
+16
+00:00:34.512 --> 00:00:36.347
+That's absolutely normal when you're first
+
+17
+00:00:36.347 --> 00:00:38.125
+confronted with these topics.
+
+18
+00:00:38.125 --> 00:00:40.590
+So just pay good attention, take some notes,
+
+19
+00:00:40.590 --> 00:00:42.302
+and maybe re-watch a lecture or two,
+
+20
+00:00:42.302 --> 00:00:43.732
+if that's necessary.
+
+21
+00:00:43.732 --> 00:00:44.725
+And if you do so,
+
+22
+00:00:44.725 --> 00:00:47.205
+well I can guarantee you that Objects and Functions
+
+23
+00:00:47.205 --> 00:00:49.198
+will be crystal clear after this section.
+
+24
+00:00:49.198 --> 00:00:51.644
+And, with that being said, let's now get started
+
+25
+00:00:51.644 --> 00:00:54.135
+with a deep dive into Objects.
+
+26
+00:00:54.135 --> 00:00:57.552
+(light electronic music)
+
